@@ -98,7 +98,7 @@ Array of Points, including phantom points. For simple glyphs, `.points.length` i
 
 Type: `Array` of `Array`
 
-- Example:
+**Example:** 
 
 In this example, points 0 to 3 define a rectangle, and points 4 to 7 are the phantom points which Samsa has automatically added. The advance width is always the first element in the point 3rd from last, in this case 500. Note that `.numPoints` in this example is 4.
 
